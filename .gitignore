@@ -1,0 +1,19 @@
+# Build output
+build/
+out/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.ilk
+
+# IDE / editor
+.vscode/
+.idea/
+.vs/
+
+# Scratch files
+scratch_*.cpp
